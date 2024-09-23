@@ -326,4 +326,6 @@
          flag is set for wifi displays.
     -->
     <bool name="config_wifiDisplaySupportsProtectedBuffers">false</bool>
+    
+    <bool name="config_Google_apps_can_have_special_access_to_accelerators">true</bool>
 </resources>
